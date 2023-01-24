@@ -1,7 +1,7 @@
 <?php
 /*
 	
-	Plugin Name: Theater
+	Plugin Name: Theatre
 	Plugin URI: https://wp.theater/
 	Description: Manage and publish events for your theater, live venue, cinema, club or festival.
 	Author: Jeroen Schmit
